@@ -1,1 +1,1 @@
-KoSList = {}
+KOSlist = {}
